@@ -1,0 +1,7 @@
+/**计数器的颜色样式*/
+  div .AC-CounterT{
+    background: #fff000;color: red;
+  }
+  em.AC-CounterT{
+    color: #000000 !important;
+  }
